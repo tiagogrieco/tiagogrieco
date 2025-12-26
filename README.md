@@ -70,18 +70,6 @@ Plataforma SaaS completa de gestão empresarial com agendamentos, CRM e módulos
 - **Features:** Agendamentos em tempo real, controle financeiro, autenticação multi-usuário
 - **Impacto:** Gerenciando 500+ agendamentos mensais, 40% mais rápido
 
-### 🎮 POE2 Companion
-Aplicação companion para games com integração de API em tempo real.
-- **Stack:** React, TypeScript, Node.js, REST APIs
-- **Features:** Importação de personagens, proxy backend, compressão de dados
-- **Destaque:** Reduz tempo de configuração manual em 80%
-
-### 💰 MalvonBill Financial System
-Sistema de gestão financeira e faturamento para PMEs.
-- **Stack:** React, TypeScript, Supabase
-- **Features:** Controle receitas/despesas, geração de faturas, dashboards interativos
-- **Impacto:** 70% de redução no trabalho manual
-
 ---
 
 ## 📈 Activity Graph
