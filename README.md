@@ -1,99 +1,48 @@
 <div align="center">
 
-# 👋 Olá! I'm Tiago Barbosa Moreira
+# Olá, eu sou o Tiago 👋
 
-### Full-Stack Developer | React • TypeScript • Python • Node.js
+**Construo sistemas e automações com IA para pequenos negócios: do problema real ao app no ar.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%2B+TypeScript+Expert;15+Years+Business+Experience;Building+Scalable+SaaS+Platforms;Open+to+Remote+Opportunities" alt="Typing SVG" />
+Uberlândia, MG 🇧🇷 · [Seenup Digital](https://seenupdigital.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 No ar agora
 
-- 🔭 Desenvolvedor Full-Stack apaixonado por criar **soluções SaaS** escaláveis
-- 💼 **15 anos de experiência administrativa** na Syngenta + expertise em programação
-- 🌱 Construindo com **React**, **TypeScript**, **Python**, e **Supabase**
-- 💡 Especializado em transformar processos de negócio em aplicações web eficientes
-- 🎯 **Full-Stack Development** com foco em performance e UX
-- 🌍 Baseado em **Uberlândia, MG**, Brasil 🇧🇷
-- 💼 Aberto a **oportunidades remotas** no Brasil e exterior
-- 📫 Contato: **tiago@seenupdigital.com**
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **[Portal de notícias de IA](https://ia.seenupdigital.com)** | Portal que se atualiza sozinho 3x por dia: escolhe as notícias, escreve, gera a capa e publica. Também faz Shorts para o YouTube com voz clonada | Node · n8n · Claude · ComfyUI |
+| **[Tela](https://github.com/tiagogrieco/tela)** | Compartilhamento de tela P2P no navegador: sala com senha, várias telas, chat e arquivos. Sem banco e sem cadastro | WebRTC · JavaScript |
+| **GlowFast** | CRM de salão de beleza: agenda, comissões, pacotes, despesas e clientes. Usado todo dia num salão de verdade | React · TypeScript · Supabase |
+| **[Viaje Mais Tour](https://viajemaistour.com)** | Site de agência de viagens com blog automático, cotação pelo WhatsApp e ofertas que chegam por e-mail e viram página | React · Vite · Supabase · n8n |
+| **Estoque condicional** | Estoque e venda condicional para revendedora de roupas, com leitor de código de barras e crediário | React · Supabase |
+| **RecepSonIA** | Recepcionista de IA no WhatsApp | WhatsApp · IA |
 
----
+## 🧪 Projetos abertos
 
-## 🛠️ Tech Stack
+- **[Concord](https://github.com/tiagogrieco/Concord)**: chat de texto, voz e vídeo em malha P2P (Electron + WebRTC)
+- **[FootSim](https://github.com/tiagogrieco/FootSim)**: simulador de gestão de futebol
+- **[multi-idle-launcher](https://github.com/tiagogrieco/multi-idle-launcher)**: abre várias contas de jogos idle ao mesmo tempo
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 🎓 Ensino
+
+Cursos em português no YouTube: **IA do Zero** e **Engenharia de IA**, para quem quer sair do "uso o ChatGPT" e chegar a "construo com IA".
+
+## 🛠️ Ferramentas do dia a dia
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/-ComfyUI-444444?style=flat-square)
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagogrieco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogrieco&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagogrieco&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🏢 GlowFast / SeenUp Digital Business Management Platform
-Plataforma SaaS completa de gestão empresarial com agendamentos, CRM e módulos financeiros.
-- **Stack:** React, TypeScript, Supabase, Tailwind CSS
-- **Features:** Agendamentos em tempo real, controle financeiro, autenticação multi-usuário
-- **Impacto:** Gerenciando 500+ agendamentos mensais, 40% mais rápido
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagogrieco&theme=tokyo-night&hide_border=true)](https://github.com/tiagogrieco)
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
+## 🤝 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-moreira-b88916a5/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagogrieco)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago@seenupdigital.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 "Transformando experiência em negócios em código que gera valor"
-
-![Profile Views](https://komarev.com/ghpvc/?username=tiagogrieco&color=6366f1&style=flat-square&label=Profile+Views)
-
-</div>
+[![Email](https://img.shields.io/badge/-tiago@seenupdigital.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago@seenupdigital.com)
